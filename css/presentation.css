@@ -14,3 +14,12 @@
     left: 10px;
     bottom: 20px;
 }
+
+.reveal .clean-img {
+    height: auto;
+    border: none;
+    background: none ;
+    box-shadow: none;
+    display: inline-block;
+    padding-bottom: 20px;
+}
